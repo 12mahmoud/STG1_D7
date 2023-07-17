@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33808.371
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STG1_D7", "STG1_D7\STG1_D7.csproj", "{995057E6-BFD7-4ED1-A634-06A9C42D595C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperations", "MathOperations\MathOperations.csproj", "{3265B94B-3048-4071-9607-75E51D0EBC17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumTask", "EnumTask\EnumTask.csproj", "{C2E4CD53-FE36-4BC4-AD7A-858D51A36EAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{995057E6-BFD7-4ED1-A634-06A9C42D595C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995057E6-BFD7-4ED1-A634-06A9C42D595C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995057E6-BFD7-4ED1-A634-06A9C42D595C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995057E6-BFD7-4ED1-A634-06A9C42D595C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3265B94B-3048-4071-9607-75E51D0EBC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3265B94B-3048-4071-9607-75E51D0EBC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3265B94B-3048-4071-9607-75E51D0EBC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3265B94B-3048-4071-9607-75E51D0EBC17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E4CD53-FE36-4BC4-AD7A-858D51A36EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E4CD53-FE36-4BC4-AD7A-858D51A36EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E4CD53-FE36-4BC4-AD7A-858D51A36EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E4CD53-FE36-4BC4-AD7A-858D51A36EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {193D4A92-5B34-42FA-8C49-C8D38B7BE7CF}
+	EndGlobalSection
+EndGlobal
